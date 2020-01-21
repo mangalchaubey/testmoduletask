@@ -1,0 +1,8 @@
+[submodule "testmoduletask"]
+	path = testmoduletask
+	url = https://github.com/mangalchaubey/testmoduletask
+	branch = master
+[submodule "tasksubmodule1"]
+	path = tasksubmodule1
+	url = https://github.com/mangalchaubey/tasksubmodule1
+	branch = master
